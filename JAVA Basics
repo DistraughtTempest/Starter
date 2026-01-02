@@ -1,17 +1,20 @@
+//Basic Syntax for practice
+
 Public Class Practice{
 
 public static void  main(String []args) {
 
-System.out.println("Practicing Notes");
+System.out.println("Practicing Notes");  //Output Command
 }
 
 }
 ------------------------------------------------
+//Variable initialization 
 
 Public class number{
 
 public void num(){
-int age = 0;
+int age = 0;   //initializing an integer 
 age = age + 7;
 System.out.println("Sammer's age is" + age);
 }
@@ -22,3 +25,4 @@ Test.num();
 }
 }
 -------------------------------------------------
+// Instance variable
