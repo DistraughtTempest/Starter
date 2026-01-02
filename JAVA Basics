@@ -1,1 +1,24 @@
+Public Class Practice{
 
+public static void  main(String []args) {
+
+System.out.println("Practicing Notes");
+}
+
+}
+------------------------------------------------
+
+Public class number{
+
+public void num(){
+int age = 0;
+age = age + 7;
+System.out.println("Sammer's age is" + age);
+}
+
+Public static void main(String []args){
+Test test = new Test();
+Test.num();
+}
+}
+-------------------------------------------------
